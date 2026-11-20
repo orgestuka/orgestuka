@@ -1,4 +1,4 @@
-![Orgest · @orgestuka](assets/profile.png)
+<h1>Orgest&nbsp;<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/mark.png"><img src="assets/mark.gif" width="32" height="32" alt=""></picture></h1>
 
 I build native Mac apps and developer tools. I work on market research and trading software at [ValorAlgo](https://valoralgo.com) and [ValorTraders](https://valortraders.com).
 
